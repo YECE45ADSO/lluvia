@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://es.quotemaster.org/images/9e/9e38080a21e63a09bb2d31b8614602c0.jpg);
+    background-size: 1000px; 
+}
+p{
+    color: beige;
+    font-size: 100px;
+    background-color: rgb(221, 13, 13);
+}
+h4{
+    font-size: 100px;
+    color:green;
+    background-color:brown;
+}
+h3{
+    font-size: 70px;
+    color:blue;
+    background-color: aqua;
+}
